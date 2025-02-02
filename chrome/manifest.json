@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "universal Chrome Extension",
+  "name": "vue3universal Chrome Extension",
   "version": "1.0",
-  "description": "universal Chrome Extension",
+  "description": "vue3universal Chrome Extension",
   "permissions": ["storage", "activeTab", "scripting"],
   "background": {
     "service_worker": "bg_worker.js"

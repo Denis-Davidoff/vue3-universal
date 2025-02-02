@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/electron-userland/electron-builder/master/packages/app-builder-lib/scheme.json",
-  "appId": "universalAppID",
+  "appId": "vue3universalAppID",
   "asar": false,
-  "productName": "universal",
+  "productName": "vue3universal",
   "directories": {
     "output": "release/${version}"
   },
